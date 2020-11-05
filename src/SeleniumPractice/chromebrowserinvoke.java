@@ -27,6 +27,9 @@ public class chromebrowserinvoke {
 		        driver.navigate().back();
 		        driver.navigate().forward();
 		        driver.close();
+		        
+		        System.out.println("Value printed successfully");
+		        System.out.println("git pull printed successfully");
 				
 
 	}
